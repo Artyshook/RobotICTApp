@@ -1,0 +1,53 @@
+/* App.css */
+.robotict-app-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.robotict-app-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.range-input {
+    margin-bottom: 15px;
+}
+
+.range-label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    padding: 5px;
+    margin-right: 10px;
+    width: 100px;
+}
+
+.process-numbers-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.process-numbers-button:hover {
+    background-color: #0056b3;
+}
+
+.numbers-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.numbers-list-item {
+    margin: 5px 0;
+}
