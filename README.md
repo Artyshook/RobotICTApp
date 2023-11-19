@@ -15,7 +15,7 @@ To install the RobotICT Number Processor, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://yourrepositorylink.git
+git clone https://github.com/Artyshook/RobotICTApp
 ```
 2. Navigate to the project directory:
 ```
